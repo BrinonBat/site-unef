@@ -1,0 +1,15 @@
+h3 {
+	color:blue;
+}
+
+h1, h2 {
+	color:orange;
+}
+
+.bg_blue{
+	background-color: blue;
+}
+
+.bg_orange{
+	background-color: orange;
+}
